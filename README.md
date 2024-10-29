@@ -1,4 +1,4 @@
-# AIOT-Safe-System <br><br>
+# IOT-Safe-System <br><br>
 
 IoT 기반 안전 알림 시스템<br><br>
 
